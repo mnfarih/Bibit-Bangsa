@@ -5,6 +5,21 @@ This platform called **Bibit Bangsa** would serve as a guide for them to make be
 # Goals
 **Bibit Bangsa** aim to given the widespread use of social media nowadays, there is a clear need to investigate the effects of social media use among Indonesian university students, particularly on their social and intellectual development.
 
+## Project setup
+```
+npm install
+```
 
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
 
