@@ -23,3 +23,6 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+### Using the prebuild binary
+Move the content of the dist folder into the root of your web server. Prebuild binary can only work under localhost.
+
